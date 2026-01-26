@@ -52,7 +52,7 @@ class _LoginState extends State<Login> {
                         ),
                         const SizedBox(height: 10),
                         const Text(
-                          "App de seguridad ciudadana'23333333333",
+                          "App de seguridad ciudadana",
                           style: TextStyle(
                             color: Color(0xFFBDBDBD),
                             fontWeight: FontWeight.bold,
